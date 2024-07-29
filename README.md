@@ -3,8 +3,6 @@
 
 # JS-CC-06 : Capital Letters
 
-## Live at: https://umutplvn.github.io/Capitalize-Letters/
-
 The purpose of this coding challenge is to capitalize the first letter of each word in the given long text.
 
 
